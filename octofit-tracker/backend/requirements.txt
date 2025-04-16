@@ -1,4 +1,4 @@
 # Required packages for the OctoFit Tracker backend
-Django>=3.2,<4.0
+Django==4.1
 psycopg2-binary
 #Testing
